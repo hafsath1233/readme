@@ -21,7 +21,7 @@ I'm a passionate software testing intern with experience in web automation using
 ## 🔗 Connect with Me
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/hafsath1233/
-- 💼 GitHub: (https://github.com/hafsath1233)
+- 💼 GitHub: https://github.com/hafsath1233
 - ✉️ Email: hafsath1233@gmail.com
 
 ## 🛠️ Projects
